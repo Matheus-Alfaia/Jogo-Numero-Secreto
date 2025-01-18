@@ -1,3 +1,4 @@
+//codigo atualizado
 let listaNumSorteados = [];
 let numLimite = 10;
 let numeroAleatorio = gerarNumero();
